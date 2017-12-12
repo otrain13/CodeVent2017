@@ -42,30 +42,82 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Day1.cs" />
     <Compile Include="codevent2017.cs" />
+    <Compile Include="Day10.cs" />
+    <Compile Include="Day2.cs" />
+    <Compile Include="Day3.cs" />
+    <Compile Include="Day4.cs" />
+    <Compile Include="Day5.cs" />
+    <Compile Include="Day6.cs" />
+    <Compile Include="Day7.cs" />
+    <Compile Include="Day8.cs" />
+    <Compile Include="Day9.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="d10p1_a.txt" />
-    <Content Include="d10p1_b.txt" />
-    <Content Include="d2p1_a.txt" />
-    <Content Include="d2p1_b.txt" />
-    <Content Include="d2p2_a.txt" />
-    <Content Include="d2p2_b.txt" />
-    <Content Include="d4p1_a.txt" />
-    <Content Include="d4p1_b.txt" />
-    <Content Include="d4p2_a.txt" />
-    <Content Include="d4p2_b.txt" />
-    <Content Include="d5p1_a.txt" />
-    <Content Include="d5p1_b.txt" />
-    <Content Include="d6p1_a.txt" />
-    <Content Include="d6p1_b.txt" />
-    <Content Include="d7p1_a.txt" />
-    <Content Include="d7p1_b.txt" />
-    <Content Include="d8p1_a.txt" />
-    <Content Include="d8p1_b.txt" />
-    <Content Include="d9p1_a.txt" />
-    <Content Include="d9p1_b.txt" />
-    <Content Include="d9p2_a.txt" />
+    <Content Include="input\d10p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d10p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d2p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d2p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d2p2_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d2p2_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d4p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d4p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d4p2_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d4p2_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d5p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d5p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d6p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d6p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d7p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d7p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d8p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d8p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d9p1_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d9p1_b.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="input\d9p2_a.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <None Include=".git\COMMIT_EDITMSG" />
