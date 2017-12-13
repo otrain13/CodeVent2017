@@ -9,7 +9,7 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Day10.Puzzle1();
+		Day11.Puzzle1();
 
 		Console.WriteLine("Press any key to exit");
 		Console.ReadKey();
